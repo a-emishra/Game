@@ -1,0 +1,6 @@
+ iMy first program
+hi
+hi 
+good night
+good mornin
+whatever
